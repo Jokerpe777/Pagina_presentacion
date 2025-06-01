@@ -94,3 +94,6 @@ input, textarea {
 button[type="submit"] {
     margin-top: 1rem;
 }
+.boton {
+    transition: background-color 0.3s;
+}
